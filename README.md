@@ -1,6 +1,6 @@
 # visualizer
 
-This is the JDG(Infinispan) cache data visualizer, migrated from https://github.com/infinispan/visual to sprintboot application
+This is the JDG(Infinispan) cache data visualizer, migrated from https://github.com/infinispan/visual to springboot application
 
 run the visualizer:
 
